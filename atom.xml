@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Ethos</title>
+  
+  <subtitle>Die Eule der Minerva beginnt erst mit der einbrechenden Dämmerung ihren Flug.</subtitle>
+  <link href="http://maverickethos.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://maverickethos.github.io/"/>
+  <updated>2021-07-27T06:02:46.429Z</updated>
+  <id>http://maverickethos.github.io/</id>
+  
+  <author>
+    <name>Ethos</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Dialectics</title>
+    <link href="http://maverickethos.github.io/Dialectics/"/>
+    <id>http://maverickethos.github.io/Dialectics/</id>
+    <published>2021-07-27T05:12:19.000Z</published>
+    <updated>2021-07-27T06:02:46.429Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/.io//Hegel.jpg" alt="Hegel"></p><p>A = A，这好像是一句废话，一个东西就是它自己，这还有什么需要解释的吗？事实并非如此，在 A = A 这个公式中，前一个 A 与后一个 A 虽然是同一个 A，但是前一个 A 是被规定的，后一个 A 是用来规定前一个 A 的。换句话说，在 A = A 的过程中，A 其实已经发生了一些变化。A 通过这个 “=” （等于号）扩展了它自身，使它自己获得了一种规定性、同一性，也让 A 和 B 区分开来。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/.io//Hegel.jpg&quot; alt=&quot;Hegel&quot;&gt;&lt;/p&gt;
+&lt;p&gt;A = A，这好像是一句废话，一个东西就是它自己，这还有什么需要解释的吗？事实并非如此，在 A = A 这个公式中，前一个 A 与后一个 A 虽然是同一个 A，但是前一个 A 是被</summary>
+      
+    
+    
+    
+    
+    <category term="黑格尔" scheme="http://maverickethos.github.io/tags/%E9%BB%91%E6%A0%BC%E5%B0%94/"/>
+    
+  </entry>
+  
+</feed>
