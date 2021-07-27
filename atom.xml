@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Ethos</title>
   
-  <subtitle>Die Eule der Minerva beginnt erst mit der einbrechenden Dämmerung ihren Flug.</subtitle>
+  
   <link href="http://maverickethos.github.io/atom.xml" rel="self"/>
   
   <link href="http://maverickethos.github.io/"/>
-  <updated>2021-07-27T06:05:14.140Z</updated>
+  <updated>2021-07-27T06:42:21.317Z</updated>
   <id>http://maverickethos.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://maverickethos.github.io/Dialectics/"/>
     <id>http://maverickethos.github.io/Dialectics/</id>
     <published>2021-07-27T05:12:19.000Z</published>
-    <updated>2021-07-27T06:05:14.140Z</updated>
+    <updated>2021-07-27T06:42:21.317Z</updated>
     
     <content type="html"><![CDATA[<p>A = A，这好像是一句废话，一个东西就是它自己，这还有什么需要解释的吗？事实并非如此，在 A = A 这个公式中，前一个 A 与后一个 A 虽然是同一个 A，但是前一个 A 是被规定的，后一个 A 是用来规定前一个 A 的。换句话说，在 A = A 的过程中，A 其实已经发生了一些变化。A 通过这个 “=” （等于号）扩展了它自身，使它自己获得了一种规定性、同一性，也让 A 和 B 区分开来。</p>]]></content>
     
@@ -32,6 +32,8 @@
       
     
     
+    
+    <category term="哲学" scheme="http://maverickethos.github.io/categories/%E5%93%B2%E5%AD%A6/"/>
     
     
     <category term="黑格尔" scheme="http://maverickethos.github.io/tags/%E9%BB%91%E6%A0%BC%E5%B0%94/"/>
